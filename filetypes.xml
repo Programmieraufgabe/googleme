@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="fdj" type="PLAIN_TEXT" />
+      <mapping pattern="jxj" type="PLAIN_TEXT" />
+      <mapping pattern="features" type="PLAIN_TEXT" />
+      <mapping pattern="CukesRunner" type="PLAIN_TEXT" />
+      <mapping pattern="TalkModuleThreeDots" type="PLAIN_TEXT" />
+      <mapping pattern="resources" type="PLAIN_TEXT" />
+      <mapping pattern="Resources" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
